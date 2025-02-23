@@ -1,3 +1,3 @@
-  <div class="simple-footer">
-      Copyright &copy; Simple POS Management System
-  </div>
+<div class="simple-footer">
+    Copyright &copy; Simple POS Website Management
+</div>
