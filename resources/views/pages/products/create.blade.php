@@ -99,7 +99,7 @@
                                         <span class="selectgroup-button">Drink</span>
                                     </label>
                                     <label class="selectgroup-item">
-                                        <input type="radio" name="category" value="other" class="selectgroup-input">
+                                        <input type="radio" name="category" value="snack" class="selectgroup-input">
                                         <span class="selectgroup-button">Other</span>
                                     </label>
                                 </div>
